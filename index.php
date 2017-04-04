@@ -6,5 +6,6 @@
 	</head>
 	<body>
 		<h1>&lt;h1&gt; element</h1>
+		<p>this part</p>
 	</body>
 </html>
